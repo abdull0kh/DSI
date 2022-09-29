@@ -1,0 +1,184 @@
+@media (max-width: 1200px) {
+
+      .hedr__content{
+        flex-direction: column;
+        row-gap: 90px;    
+    }
+
+    .read{
+        margin-left: 150px;
+        margin-top: 50px;
+    }
+
+     
+}
+
+@media (max-width: 1100px) {
+   
+    .logo{
+        margin-left: -50px;
+    }
+
+    .nav__content{
+        flex-direction: column;
+        row-gap: 50px;
+    }
+
+    .knopkala{
+        margin-left: -20px;
+        column-gap: 200px;
+        margin-top: 40px;
+    }
+
+    .hedr_txt{
+        margin-top: 60px;
+    }
+
+
+    .img__header{
+        width: 400px;
+    }
+
+
+}
+
+@media (max-width: 1000px) {
+    .hedr__asosiy{
+        flex-wrap: wrap;
+    }
+
+    .welcome{
+        margin-top: 20px;
+    }
+
+    .header{
+        margin-top: 130px;
+    }
+
+    .hash{
+       margin-top: 60px;
+    }
+
+    .chapp{
+        font-size: 16px;
+        width: 280px;
+        flex-wrap: wrap;
+    }
+
+    .hedr__main{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .img__chap{
+        margin-left: 130px;
+    }
+
+    .read2{
+        margin: 0 auto;
+    }
+
+    .hash3{
+        margin-left: 100px;
+    }
+
+    .chapp{
+        margin-left: 40px;
+        text-align: center;
+    }
+
+}
+
+@media (max-width: 800px) {
+    .ul1{
+        flex-direction: column;
+        row-gap: 35px;
+        font-size: 25px;
+        margin-left: -50px;
+        text-align: center;
+    }
+
+    .knopkala{
+        margin-left: -1px;
+        margin-top: 20px;
+        column-gap: 200px;
+    }
+
+}
+@media (max-width: 620px) {
+   
+    .hedr__asosiy{
+        height: 1000px;
+    }
+
+    .header{
+        margin-top: 140px;
+    }
+
+    .hash{
+        margin-top: 270px;
+    }
+
+    .hedr_txt{
+        text-align: center;
+        width: 450px;
+        font-size: 45px;
+        margin-bottom: 90px;
+        margin-left: 25px;
+    }
+
+    .knopkala{
+        column-gap: 65px;
+        margin-left: -20px;
+    }
+
+    .box__img{
+        width: 480px;
+    }
+
+    .read{
+        margin: 0 auto;
+        margin-top: 80px;
+    }
+
+    .hedr__txt2{
+        text-align: center;
+    }
+
+    .descripton{
+        width: 300px;
+        margin: 0 auto;
+    }
+
+    .welcome{
+        font-size: 28px;
+        width: 200px;
+        margin: 0 auto;
+        /* margin-top: 10px; */
+    }
+
+}
+
+@media (max-width: 520px) {
+    .hedr__txt2{
+        width: 410px;
+        margin-left: 40px;
+    }
+
+    .box__img{
+        width: 430px;
+    }
+}
+
+@media (max-width: 480px) {
+    .box__img{
+        width: 350px;
+    }
+
+    .hedr_txt{
+        font-size: 38px;
+        width: 350px;
+        margin-left: 45px;   
+    }
+}
